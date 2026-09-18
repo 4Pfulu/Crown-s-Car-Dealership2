@@ -33,7 +33,7 @@ Part 2 focuses on the visual design and responsive behaviour of the website. An 
 
 
 ## Changelog
-- **18 September 2026:** Created external stylesheet (style.css) and linked it to all five pages (index, products, about, contact, enquiry).
+- **11 September 2026:** Created external stylesheet (style.css) and linked it to all five pages (index, products, about, contact, enquiry).
 - **11 September 2026:** Applied base styles, typography, colour scheme, and CSS reset site-wide.
 - **11 September 2026:** Built layouts using CSS Grid (vehicle grid) and Flexbox (header, nav, forms, footer).
 - **12 September 2026:** Added visual styling (card shadows, button styling, borders) and interactive states (:hover, :focus, :active).
