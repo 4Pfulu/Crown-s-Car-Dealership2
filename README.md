@@ -23,10 +23,8 @@ Crown's Car Dealership is a fictional small, independently owned car dealership 
 - Fully responsive design tested across desktop, tablet, and mobile screen sizes.
 
 ## Timeline and Milestones
-- **Week 1:** External stylesheet created and linked to all pages.
-- **Week 2:** Base styles, typography, and layout (CSS Grid/Flexbox) applied.
-- **Week 3:** Visual styling, interactive states, and responsive breakpoints implemented.
-- **Week 4:** Responsive images added, cross-device testing, and final review.
+- **Week 1:** External stylesheet created and linked to all pages; base styles, typography, and layout (CSS Grid/Flexbox) applied.
+- **Week 2:** Visual styling, interactive states, responsive breakpoints, responsive images, and cross-device testing completed.
 
 ## Part 2 Details
 Part 2 focuses on the visual design and responsive behaviour of the website. An external CSS stylesheet was created and linked to all five pages, applying consistent typography, colour scheme, and layout using CSS Grid and Flexbox. Interactive states (`:hover`, `:focus`, `:active`) were added to navigation links, buttons, and form fields. The site was made fully responsive using relative units, media query breakpoints (900px and 600px), and `<picture>`/`srcset` for responsive vehicle images.
